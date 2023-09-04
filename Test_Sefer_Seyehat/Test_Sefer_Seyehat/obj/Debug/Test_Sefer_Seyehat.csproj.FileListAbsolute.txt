@@ -1,0 +1,10 @@
+C:\Users\Şafak Şahin\Desktop\Test_Sefer_Seyehat\Test_Sefer_Seyehat\bin\Debug\Test_Sefer_Seyehat.exe.config
+C:\Users\Şafak Şahin\Desktop\Test_Sefer_Seyehat\Test_Sefer_Seyehat\bin\Debug\Test_Sefer_Seyehat.exe
+C:\Users\Şafak Şahin\Desktop\Test_Sefer_Seyehat\Test_Sefer_Seyehat\bin\Debug\Test_Sefer_Seyehat.pdb
+C:\Users\Şafak Şahin\Desktop\Test_Sefer_Seyehat\Test_Sefer_Seyehat\obj\Debug\Test_Sefer_Seyehat.csproj.AssemblyReference.cache
+C:\Users\Şafak Şahin\Desktop\Test_Sefer_Seyehat\Test_Sefer_Seyehat\obj\Debug\Test_Sefer_Seyehat.Form1.resources
+C:\Users\Şafak Şahin\Desktop\Test_Sefer_Seyehat\Test_Sefer_Seyehat\obj\Debug\Test_Sefer_Seyehat.Properties.Resources.resources
+C:\Users\Şafak Şahin\Desktop\Test_Sefer_Seyehat\Test_Sefer_Seyehat\obj\Debug\Test_Sefer_Seyehat.csproj.GenerateResource.cache
+C:\Users\Şafak Şahin\Desktop\Test_Sefer_Seyehat\Test_Sefer_Seyehat\obj\Debug\Test_Sefer_Seyehat.csproj.CoreCompileInputs.cache
+C:\Users\Şafak Şahin\Desktop\Test_Sefer_Seyehat\Test_Sefer_Seyehat\obj\Debug\Test_Sefer_Seyehat.exe
+C:\Users\Şafak Şahin\Desktop\Test_Sefer_Seyehat\Test_Sefer_Seyehat\obj\Debug\Test_Sefer_Seyehat.pdb
